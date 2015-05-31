@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import picamera
-from PIL import Image
 from time import sleep
 
 with picamera.PiCamera() as camera:
